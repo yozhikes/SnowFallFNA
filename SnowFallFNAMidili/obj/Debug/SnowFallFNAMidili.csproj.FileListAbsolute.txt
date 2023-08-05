@@ -22,3 +22,15 @@ C:\Users\midil\OneDrive\Документы\ПКГХ\Конопля\cmpltd\FNA\Sn
 C:\Users\midil\OneDrive\Документы\ПКГХ\Конопля\cmpltd\FNA\SnowFallFNAMidili\obj\Debug\SnowFallFNAMidili.csproj.CopyComplete
 C:\Users\midil\OneDrive\Документы\ПКГХ\Конопля\cmpltd\FNA\SnowFallFNAMidili\obj\Debug\GameEngine.exe
 C:\Users\midil\OneDrive\Документы\ПКГХ\Конопля\cmpltd\FNA\SnowFallFNAMidili\obj\Debug\GameEngine.pdb
+C:\Users\yozhikes\Source\Repos\SnowFallFNAMidili\SnowFallFNAMidili\bin\Debug\Content\fon.jpg
+C:\Users\yozhikes\Source\Repos\SnowFallFNAMidili\SnowFallFNAMidili\bin\Debug\Content\snow.png
+C:\Users\yozhikes\Source\Repos\SnowFallFNAMidili\SnowFallFNAMidili\bin\Debug\GameEngine.exe.config
+C:\Users\yozhikes\Source\Repos\SnowFallFNAMidili\SnowFallFNAMidili\bin\Debug\GameEngine.exe
+C:\Users\yozhikes\Source\Repos\SnowFallFNAMidili\SnowFallFNAMidili\bin\Debug\GameEngine.pdb
+C:\Users\yozhikes\Source\Repos\SnowFallFNAMidili\SnowFallFNAMidili\bin\Debug\FNA.dll
+C:\Users\yozhikes\Source\Repos\SnowFallFNAMidili\SnowFallFNAMidili\obj\Debug\SnowFallFNAMidili.csproj.AssemblyReference.cache
+C:\Users\yozhikes\Source\Repos\SnowFallFNAMidili\SnowFallFNAMidili\obj\Debug\SnowFallFNAMidili.csproj.SuggestedBindingRedirects.cache
+C:\Users\yozhikes\Source\Repos\SnowFallFNAMidili\SnowFallFNAMidili\obj\Debug\SnowFallFNAMidili.csproj.CoreCompileInputs.cache
+C:\Users\yozhikes\Source\Repos\SnowFallFNAMidili\SnowFallFNAMidili\obj\Debug\SnowFallFNAMidili.csproj.CopyComplete
+C:\Users\yozhikes\Source\Repos\SnowFallFNAMidili\SnowFallFNAMidili\obj\Debug\GameEngine.exe
+C:\Users\yozhikes\Source\Repos\SnowFallFNAMidili\SnowFallFNAMidili\obj\Debug\GameEngine.pdb
