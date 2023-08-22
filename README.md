@@ -1,4 +1,6 @@
 # SnowFallFNA
-Приложение представляет собой скринсейвер с анимацией падающего снега
-Для запуска программы используйте exe-файл
-В самом приложении снег падает и останавливается по нажатию ЛКМ
+The application is a screensaver with animation of falling snow, developed on the FNA engine
+
+To run the program, use the exe file
+
+In the application itself, snow falls and stops when you press the LMB
